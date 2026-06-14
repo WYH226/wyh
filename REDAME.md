@@ -1,3 +1,5 @@
+<img width="474" height="729" alt="OIP-C" src="https://github.com/user-attachments/assets/fbab9bd0-7df1-4f3e-80bb-9b1e0971c87d" />
+
 以下是一份完整、适配GitHub渲染风格的 `README.md` 模板，完整覆盖「AI专业学生自我介绍」「最喜欢的代码片段」「动漫人物详细介绍」三个核心板块，格式规范且兼具个人风格，可直接复制使用：
 
 ```markdown
